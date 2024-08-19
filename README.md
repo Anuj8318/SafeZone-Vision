@@ -53,7 +53,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/PPE-Violation-Detection-System.git
+git clone (https://github.com/Anuj8318/SafeZone-Vision/).git
 cd PPE-Violation-Detection-System
 Create and Activate Virtual Environment
 
